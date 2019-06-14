@@ -1,7 +1,11 @@
 # python_project
-just for practice
 
 This is just python practice for my learning.
 
-SimpleNeuralNetwork is a simple neural network for mnist practice
-and with some mnist datasets.
+## SimpleNeuralNetwork 
+It is a simple neural network for mnist practice
+
+And with some mnist datasets.
+
+>ps:I didn't push mnist_train.csv dataset because it exceeded 100M and the github limits the single file to no more than 100M.
+
